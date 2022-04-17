@@ -46,6 +46,7 @@ O(n^2) => Insertin Sort algoritmasının Big-O Notation'ıdır.
 
 [Patika](https://www.patika.dev)
 
+https://www.patika.dev
 
 
 
